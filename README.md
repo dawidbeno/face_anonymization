@@ -12,7 +12,8 @@ The goal of this project is to detect, and blur faces in a video. Each face in a
 ## Body and faces models
 In application, pretrained models for detection human body and face are used. Models are trained on COCO dataset and are part of Tensorflow library.
 
-- [faster_rcnn_inception_v2_coco] ( https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models )
+- faster_rcnn_inception_v2_coco 
+  ( https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models )
 - facessed_mobilenet_v2 (**models** directory)
 
 ## Script launch
