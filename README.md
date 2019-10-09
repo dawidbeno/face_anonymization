@@ -1,4 +1,7 @@
 # Face anonymization in video
+
+[Slovak] (README.SK.md) version
+
 The goal of this project is to detect, and blur faces in a video. Each face in a video is tracked and continuously anonymized. To detect face in a picture, we use both Haarcascade classifier and Tensorflow object detection API.
 
 ## Example of anonymized face
